@@ -6,6 +6,7 @@ These are pieces written by Kris Johnson for [Sonic Pi](http://sonic-pi.net).
 
 ## Descriptions
 
+- "Haunted": the sound of a spooky moor
 - "Tundra": A low-frequency ambient drone, inspired by Thomas Köner's early albums, especially "Permafrost"
 
 (more to come)
