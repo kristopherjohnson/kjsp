@@ -3,9 +3,12 @@ Kris Johnson's Sonic Pi Collection
 
 These are pieces written by Kris Johnson for [Sonic Pi](http://sonic-pi.net).
 
+These can generally be placed in genre of "dark ambient".  This is the kind of stuff to which Kris listens when he's working.
+
 
 ## Descriptions
 
+- "Ambi": never-ending layers of drones
 - "Haunted": the sound of a spooky moor
 - "Tundra": A low-frequency ambient drone, inspired by Thomas Köner's early albums, especially "Permafrost"
 
